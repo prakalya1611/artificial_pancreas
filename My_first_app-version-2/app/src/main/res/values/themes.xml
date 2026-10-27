@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GlucoSync" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorTertiary">@color/tertiary</item>
+
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textSize">16sp</item>
+        <item name="materialButtonStyle">@style/GlucoButton</item>
+    </style>
+    <style name="Theme.GlucoSync.Insulin">
+        <item name="colorPrimary">@color/tertiary</item>
+        <item name="android:statusBarColor">@color/tertiary</item>
+
+    </style>
+
+    <style name="Theme.GlucoSync.Alert">
+        <item name="colorPrimary">@color/danger_red</item>
+        <item name="android:statusBarColor">@color/danger_red</item>
+    </style>
+
+
+    <style name="GlucoButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Theme.GlucoSync.Secure">
+
+    </style>
+
+
+
+
+
+</resources>

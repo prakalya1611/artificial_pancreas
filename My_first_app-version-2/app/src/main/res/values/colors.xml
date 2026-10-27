@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>        <!-- Trust Blue -->
+    <color name="secondary">#26A69A</color>      <!-- Calm Teal -->
+    <color name="tertiary">#2E7D32</color>       <!-- Safe Green -->
+    <color name="danger_red">#D32F2F</color>     <!-- Emergency -->
+    <color name="warning_amber">#F9A825</color>  <!-- In-range but trending -->
+    <color name="background">#F5F7FA</color>
+
+    <!-- Surfaces & text -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#EFF3F8</color>
+    <color name="text_primary">#1A1F26</color>
+    <color name="text_secondary">#5B6572</color>
+    <color name="divider">#E1E6EC</color>
+    <color name="ripple">#141565C0</color>
+
+</resources>
